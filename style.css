@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  text-align: justify;
+  font-family: "Poppins", Bahnschrift, sans-serif;
+  scroll-behavior: smooth;
+}
+
+main {
+  padding: 10px 100px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  font-size: larger;
+}
