@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 62%;
+}
+
+input,
+select {
+  outline: none;
+  padding: 0.7em;
+  border-radius: 0.5rem;
+  border: none;
+}
+
+option {
+  font-size: 1.6rem;
+}
+
+body {
+  background: url(https://t4.ftcdn.net/jpg/02/26/68/49/360_F_226684997_B70B2bB21Wk2ch12kAV0cqjNlTpX9fdB.jpg);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+main {
+  display: grid;
+  place-items: center;
+  width: 50%;
+  margin: 3% auto;
+  box-shadow: 0 0 1rem 0 black;
+  background-color: rgba(0, 0, 0, 0.61);
+}
+
+form {
+  display: grid;
+  font-size: 1.7rem;
+  gap: 2rem;
+  padding: 2rem;
+  color: white;
+  width: 80%;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+  position: relative;
+}
+
+h1 {
+  color: darkorange;
+  font-weight: 600;
+  width: 100%;
+  font-size: 3.5rem;
+  text-align: center;
+  padding: 5rem 0 2rem;
+}
+
+input[type="submit"] {
+  background-color: darkorange;
+  color: white;
+  font-weight: 600;
+  font-size: 2rem;
+  padding: 0.8rem;
+}
+
+h4 {
+  font-weight: normal;
+}
+.required {
+  color: rgb(226, 37, 37);
+  font-weight: 200;
+}
+
+@media (max-width: 1000px) {
+  main {
+    width: 60%;
+  }
+}
+@media (max-width: 800px) {
+  main {
+    width: 80%;
+  }
+}
+@media (max-width: 500px) {
+  main {
+    width: 95%;
+  }
+  .user-name {
+    flex-wrap: wrap;
+  }
+}
