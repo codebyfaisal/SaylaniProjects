@@ -6,19 +6,19 @@ Welcome to the "SaylaniMassITProjects" GitHub repository! This repository contai
 
 1. **PortfolioWebsite-HTML-00**
    - Description: Initial version of the portfolio website using HTML.
-   - Live Demo: [PortfolioWebsite-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-00/)
+   - Live Demo: [PortfolioWebsite-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-00/){:target="_blank"}
 
 2. **PortfolioWebsite-HTML-01**
    - Description: Improved version of the portfolio website, adding images.
-   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/)
+   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/){:target="_blank"}
 
 3. **PortfolioWebsite-HTML-02**
    - Description: Further enhancements to the portfolio website, adding table.
-   - Live Demo: [PortfolioWebsite-HTML-02](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-02/)
+   - Live Demo: [PortfolioWebsite-HTML-02](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-02/){:target="_blank"}
 
 4. **PortfolioWebsite-HTML-03**
    - Description: Further enhancements to the portfolio website, utilization of forms.
-   - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-03/)
+   - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-03/){:target="_blank"}
 
 5. **Registration-Form-HTML-00**
    - Description: Basic registration form using HTML.
@@ -26,4 +26,4 @@ Welcome to the "SaylaniMassITProjects" GitHub repository! This repository contai
         - ✅ Stylish CSS for a polished look
         - ✅ User-friendly interface
         - ✅ Responsive
-   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/Registration-Form-HTML-00/)
+   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/Registration-Form-HTML-00/){:target="_blank"}
