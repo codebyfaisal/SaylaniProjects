@@ -2,19 +2,39 @@
 
 * {
   text-align: justify;
-  font-family: "Poppins", Bahnschrift, sans-serif;
+  font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
 }
 
-main {
-  padding: 10px 100px;
+html {
+  font-size: 62%;
 }
+
 nav ul {
   list-style: none;
   display: flex;
   justify-content: center;
-  gap: 2rem;
-  font-size: larger;
+  gap: 2rem 5rem;
+  font-size: 2.3rem;
+  border-bottom: 1px solid black;
+  padding-bottom: 1.5rem;
+  flex-wrap: wrap;
+
+  & a {
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+    transition: all 0.1s ease-in-out;
+
+    &:hover {
+      color: darkcyan;
+    }
+  }
+}
+
+main {
+  padding: 1rem 10rem;
+  font-size: 1.7rem;
 }
 
 form {
@@ -37,5 +57,19 @@ form {
     & label {
       display: flex;
     }
+  }
+}
+
+address {
+  display: grid;
+  place-items: center;
+  font-style: normal;
+
+  & ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
   }
 }
