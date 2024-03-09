@@ -1,6 +1,6 @@
 # SaylaniProjects
 
-Welcome to the "SaylaniMassITProjects" GitHub repository! This repository contains projects related to the web development course I am undertaking at Saylani Mass IT Training 2024. Each directory corresponds to a specific project, and you can find links to live demos below.
+Welcome to the "SaylaniMassITProjects" Practice GitHub repository! This repository contains projects related to the web development course I am undertaking at Saylani Mass IT Training 2024. Each directory corresponds to a specific project, and you can find links to live demos below.
 
 ## Projects
 
