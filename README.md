@@ -1,6 +1,6 @@
 # SaylaniProjects
 
-Welcome to the "SaylaniMassITProjects" Practice GitHub repository! This repository contains projects related to the web development course I am undertaking at Saylani Mass IT Training 2024. Each directory corresponds to a specific project, and you can find links to live demos below.
+Welcome to the "SaylaniMassITProjects" practice GitHub repository! This repository contains projects related to the web development course that I am currently doing at Selani Mass IT Training in 2024. Each directory in the repository represents a specific project, and you can find links to live demos of those projects below.
 
 ## Projects
 
@@ -17,7 +17,7 @@ Welcome to the "SaylaniMassITProjects" Practice GitHub repository! This reposito
    - Live Demo: [PortfolioWebsite-HTML-02](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-02/){:target="_blank"}
 
 4. **PortfolioWebsite-HTML-03**
-   - Description: Further enhancements to the portfolio website, utilization of forms.
+   - Description: Further enhancements to the portfolio website, and utilization of forms.
    - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-03/){:target="_blank"}
 
 5. **Registration-Form-HTML-00**
