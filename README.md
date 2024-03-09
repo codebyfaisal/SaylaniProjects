@@ -7,7 +7,7 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
 ### PortfolioWebsite-HTML
 1. **PortfolioWebsite-HTML-00**
    - Description: Initial version of the portfolio website using HTML.
-   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/)
+   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-00/)
 
 2. **PortfolioWebsite-HTML-01**
    - Description: Improved version of the portfolio website, adding images.
@@ -22,7 +22,7 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
    - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-03/)
 
 <!-- 4. **PortfolioWebsite-HTML-03**
-   - Description: Further enhancements to the portfolio website, .
+   - Description: Further enhancements to the portfolio website.
    - Live Demo: [PortfolioWebsite-HTML-04](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-04/) -->
 
 ### Registration-Form-HTML
