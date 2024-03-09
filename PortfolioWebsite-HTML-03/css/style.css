@@ -13,13 +13,13 @@ nav ul {
   list-style: none;
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  gap: 30px;
   font-size: larger;
 }
 
 form {
   display: grid;
-  gap: 1rem;
+  gap: 15px;
 
   & label {
     display: grid;
@@ -32,7 +32,7 @@ form {
 
   .message-type {
     display: flex;
-    gap: 1.3rem;
+    gap: 20px;
 
     & label {
       display: flex;
