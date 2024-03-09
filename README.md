@@ -6,19 +6,19 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
 
 1. **PortfolioWebsite-HTML-00**
    - Description: Initial version of the portfolio website using HTML.
-   - Live Demo: <a href="https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/" target="_blank">PortfolioWebsite-HTML-01</a>
+   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/)
 
 2. **PortfolioWebsite-HTML-01**
    - Description: Improved version of the portfolio website, adding images.
-   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/){:target="_blank"}
+   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/)
 
 3. **PortfolioWebsite-HTML-02**
    - Description: Further enhancements to the portfolio website, adding table.
-   - Live Demo: [PortfolioWebsite-HTML-02](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-02/){:target="_blank"}
+   - Live Demo: [PortfolioWebsite-HTML-02](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-02/)
 
 4. **PortfolioWebsite-HTML-03**
    - Description: Further enhancements to the portfolio website, and utilization of forms.
-   - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-03/){:target="_blank"}
+   - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-03/)
 
 5. **Registration-Form-HTML-00**
    - Description: Basic registration form using HTML.
@@ -26,4 +26,4 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
         - ✅ Stylish CSS for a polished look
         - ✅ User-friendly interface
         - ✅ Responsive
-   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/Registration-Form-HTML-00/){:target="_blank"}
+   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/Registration-Form-HTML-00/)
