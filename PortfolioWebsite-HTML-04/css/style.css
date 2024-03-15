@@ -182,7 +182,6 @@ article {
   gap: 1rem;
 
   & section {
-    /* background-color: lavender; */
     width: 50%;
   }
 }
@@ -272,5 +271,22 @@ footer {
   }
   .project {
     min-width: 100%;
+  }
+
+  .contact-main {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+
+    & section {
+      width: 70%;
+    }
+  }
+}
+@media (max-width: 780px) {
+    .contact-main {
+        & section {
+      width: 100%;
+    }
   }
 }
