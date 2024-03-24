@@ -7,23 +7,23 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
 ### PortfolioWebsite-HTML
 1. **PortfolioWebsite-HTML-00**
    - Description: Initial version of the portfolio website using HTML.
-   - Live Demo: [PortfolioWebsite-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-00/)
+   - Live Demo: [PortfolioWebsite-HTML-00](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-00/)
 
 2. **PortfolioWebsite-HTML-01**
    - Description: Improved version of the portfolio website, adding images.
-   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-01/)
+   - Live Demo: [PortfolioWebsite-HTML-01](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-01/)
 
 3. **PortfolioWebsite-HTML-02**
    - Description: Further enhancements to the portfolio website, adding table.
-   - Live Demo: [PortfolioWebsite-HTML-02](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-02/)
+   - Live Demo: [PortfolioWebsite-HTML-02](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-02/)
 
 4. **PortfolioWebsite-HTML-03**
    - Description: Further enhancements to the portfolio website, and utilization of forms.
-   - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-03/)
+   - Live Demo: [PortfolioWebsite-HTML-03](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-03/)
 
 5. **PortfolioWebsite-HTML-04**
    - Description: Portfolio Website with full HTML-5.
-   - Live Demo: [PortfolioWebsite-HTML-04](https://codebyfaisal.github.io/SaylaniProjects.github.io/PortfolioWebsite-HTML-04/)
+   - Live Demo: [PortfolioWebsite-HTML-04](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-04/)
 
 ### Registration-Form-HTML
 1. **Registration-Form-HTML-00**
@@ -32,4 +32,4 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
         - ✅ Stylish CSS for a polished look
         - ✅ User-friendly interface
         - ✅ Responsive
-   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects.github.io/Registration-Form-HTML-00/)
+   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects/Registration-Form-HTML-00/)
