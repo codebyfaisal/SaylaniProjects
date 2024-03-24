@@ -26,15 +26,15 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
    - Live Demo: [PortfolioWebsite-HTML-04](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-04/)
 
 6. **PortfolioWebsite-HTML-CSS-00**
-   - Description: Portfolio Website with full HTML-5.
+   - Description: Portfolio Website, Adding different CSS colors and extending CSS styles.
    - Live Demo: [PortfolioWebsite-HTML-CSS-00](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-CSS-00/)
 
 7. **PortfolioWebsite-HTML-CSS-01**
-   - Description: Portfolio Website with full HTML-5.
+   - Description: Portfolio Website with ...
    - Live Demo: [PortfolioWebsite-HTML-CSS-01](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-CSS-01/)
      
 8. **PortfolioWebsite-HTML-CSS-02**
-   - Description: Portfolio Website with full HTML-5.
+   - Description: Portfolio Website with ...
    - Live Demo: [PortfolioWebsite-HTML-CSS-02](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-CSS-02/)
 
 ### Registration-Form-HTML
