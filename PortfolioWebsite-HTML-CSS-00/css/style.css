@@ -23,6 +23,10 @@ main {
   font-size: 1.6rem;
 }
 
+.active {
+  border-bottom: 2px solid white;
+}
+
 /***** Reusable Section *****/
 a,
 button {
@@ -90,10 +94,6 @@ nav {
     color: #ffffff;
     font-weight: 600;
     font-size: 2rem;
-
-    &:hover {
-      color: #ffffff;
-    }
   }
 }
 
@@ -148,7 +148,7 @@ header {
   text-decoration: none;
 }
 
-/***** Main Section *****/
+/***** Main Sections *****/
 /** Home-Main Section **/
 .home-main {
   display: flex;
