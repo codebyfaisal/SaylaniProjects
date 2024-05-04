@@ -61,5 +61,6 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
    - 🖥️ What's included?
         - ✅ Stylish CSS for a polished look
         - ✅ User-friendly interface
+        - ✅ Use float
         - ✅ Responsive
    - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects/CalculatorDesign-html-Css/)
