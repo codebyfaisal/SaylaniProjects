@@ -55,3 +55,11 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
         - ✅ User-friendly interface
         - ✅ Responsive
    - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects/Registration-Form-HTML-00/)
+
+### CalculatorDesign-html-Css
+   - Description: A responsive calculator with a sleek design, implemented using HTML and CSS only.
+   - 🖥️ What's included?
+        - ✅ Stylish CSS for a polished look
+        - ✅ User-friendly interface
+        - ✅ Responsive
+   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects/CalculatorDesign-html-Css/)
