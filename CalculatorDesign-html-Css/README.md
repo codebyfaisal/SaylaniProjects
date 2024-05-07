@@ -6,7 +6,7 @@ A responsive calculator with a sleek design, implemented using only HTML and CSS
 ## Preview
 ![Website Preview img](preview.png)
 
-<a href="https://codebyfaisal.github.io/project1" target="_blank">Project Preview</a>
+<a href="https://codebyfaisal.github.io/SaylaniProjects/CalculatorDesign-html-Css/" target="_blank">Project Preview</a>
 
 ## 🖥️ What is included?
 - **Stylish CSS**: Designed to give the calculator a sleek and modern look.
