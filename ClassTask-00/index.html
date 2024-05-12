@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Event Registration Form</h1>
+      <form>
+        <label>
+          <h4>Name <span class="required">*</span></h4>
+          <div class="user-name" style="display: flex; gap: 1rem; width: 100%">
+            <input
+              type="text"
+              id="fname"
+              name="fname"
+              placeholder="First Name"
+              required
+              style="width: 100%"
+            />
+            <input
+              type="text"
+              id="lname"
+              name="lname"
+              placeholder="Last Name"
+              required
+              style="width: 100%"
+            />
+          </div>
+        </label>
+
+        <label for="company">
+          <h4>Company <span class="required">*</span></h4>
+          <input
+            type="text"
+            name="company"
+            id="company"
+            placeholder="Company Name"
+          />
+        </label>
+
+        <label for="user-email">
+          <h4>Email <span class="required">*</span></h4>
+          <input
+            type="email"
+            name="email"
+            id="user-email"
+            placeholder="example@email.com"
+            required
+          />
+        </label>
+
+        <label for="phone">
+          <h4>Phone <span class="required">*</span></h4>
+          <input
+            type="tel"
+            id="phone"
+            placeholder="Phone Number +92 123456789"
+            title="Phone format: XXX-XXX-XXXXX"
+          />
+        </label>
+
+        <label for="subject">
+          <h4>Subject <span class="required">*</span></h4>
+          <select id="subject" name="subject">
+            <option value="">Select Option</option>
+            <option value="engineering">Agriculture</option>
+            <option value="computer-science">Computer Science</option>
+            <option value="agriculture">Education</option>
+            <option value="education">Engineering</option>
+            <option value="environment">Environment</option>
+            <option value="history">History</option>
+            <option value="law">Law</option>
+            <option value="literature">Literature</option>
+            <option value="music">Music</option>
+            <option value="performing-arts">Performing Arts</option>
+            <option value="philosophy">Philosophy</option>
+          </select>
+        </label>
+
+        <label for="participation"
+          >Have you participated in this event before?
+          <div
+            class="participation"
+            style="
+              display: flex;
+              flex-direction: justify-content-center;
+              gap: 4rem;
+            "
+          >
+            <label
+              for="participation-y"
+              style="flex-direction: row; gap: 0.4rem"
+            >
+              Yes<input
+                type="radio"
+                name="participation"
+                id="participation-y"
+              />
+            </label>
+            <label
+              for="participation-n"
+              style="flex-direction: row; gap: 0.4rem"
+            >
+              Not<input
+                type="radio"
+                name="participation"
+                id="participation-n"
+              />
+            </label>
+          </div>
+        </label>
+
+        <input type="submit" value="Submit" />
+      </form>
+    </main>
+  </body>
+</html>
