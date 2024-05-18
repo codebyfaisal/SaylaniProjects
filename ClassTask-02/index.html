@@ -3,16 +3,187 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Saylani Welfare</title>
-    <link rel="stylesheet" href="./style.css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <title>Saylani Welfare Trust</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./fonts/fonts.css" />
+
+    <link rel="shortcut icon" href="./icons/favicon.png" type="image/x-icon" />
+
+    <!-- Bootstrap Css cdn -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
   </head>
   <body>
-    <div class="container">
-      <h1>Saylani Welfare</h1>
-      <a href = "https://codebyfaisal.netlify.app" class = "btn btn-primary">My Portfolio</a>
+    <div class="top-bar">
+      <div class="d-flex justify-content-between align-items-center">
+        <ul>
+          <li><i class="fa-light fa-envelope"></i> info@SaylaniWelfare.com</li>
+          <li><i class="fa-regular fa-phone"></i> 021-111-729-526</li>
+          <li><i class="fa-brands fa-whatsapp"></i> 03111729526</li>
+          <li class="other-websites d-flex justify-content-center">
+            Visit Our other websites:
+            <div class="flags">
+              <a href="https://www.saylaniwelfareuk.com/en" target="_blank"
+                ><img src="./icons/uk.png" alt="UK Website"
+              /></a>
+              <a href="https://www.saylaniwelfareusa.com/en" target="_blank"
+                ><img src="./icons/usa.png" alt="USA Website"
+              /></a>
+              <a href="https://www.saylaniwelfare.ca/en" target="_blank"
+                ><img src="./icons/canada.png" alt="CANADA Website"
+              /></a>
+              <a href="https://www.saylaniwelfare.com/tr" target="_blank"
+                ><img src="./icons/uk.png" alt="TURKEY Website"
+              /></a>
+            </div>
+          </li>
+        </ul>
+        <select name="" id="langauge" style="-webkit-appearance: none">
+          <option value="eng" selected>English</option>
+          <option value="eng">اردو</option>
+          <option value="eng">Türkçe</option>
+        </select>
+      </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- Navbar -->
+    <nav class="navbar bg-body-tertiary">
+      <div class="container">
+        <a class="navbar-brand" href="./index.html">
+          <img
+            src="./images/logo.png"
+            alt="Bootstrap"
+            width="200"
+            height="100%"
+          />
+        </a>
+        <ul class="nav nav-pills">
+          <li class="nav-item">
+            <a
+              class="nav-link active"
+              aria-current="page"
+              href="./index.html"
+              style="background-color: transparent"
+              >Home</a
+            >
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link"
+              data-bs-toggle="dropdown"
+              href="#"
+              role="button"
+              aria-expanded="false"
+              >About</a
+            >
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item mb-3" href="#">Introduction</a></li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Chairman Message</a>
+              </li>
+              <li><a class="dropdown-item mb-3" href="#">Audit Reports</a></li>
+              <li>
+                <a class="dropdown-item" href="#">Tax Exemption Certificate</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link"
+              data-bs-toggle="dropdown"
+              href="#"
+              role="button"
+              aria-expanded="false"
+              >Services</a
+            >
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item mb-3" href="#">Health</a></li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Education</a>
+              </li>
+              <li><a class="dropdown-item mb-3" href="#">Food</a></li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Sadqah Jariah</a>
+              </li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Social Welfare</a>
+              </li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Disaster Aid</a>
+              </li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Saylani Ehsaas</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link"
+              data-bs-toggle="dropdown"
+              href="#"
+              role="button"
+              aria-expanded="false"
+              >Media</a
+            >
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item mb-3" href="#">Video</a></li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Books</a>
+              </li>
+              <li><a class="dropdown-item mb-3" href="#">News</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link"
+              data-bs-toggle="dropdown"
+              href="#"
+              role="button"
+              aria-expanded="false"
+              >Contact Us</a
+            >
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item mb-3" href="#">Contact Us</a></li>
+              <li>
+                <a class="dropdown-item mb-3" href="#">Branches</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Bank Details</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="#">Other Websites</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <h1 class="heading">Welcome to the <span> Saylani </span> Welfare</h1>
+          <p>
+            The largest NGO offering free
+            <span> IT and vocational trainings</span>
+          </p>
+        </div>
+        <div class="header-right"></div>
+      </div>
+    </header>
+    <main></main>
+    <footer></footer>
+
+    <!-- Bootstrap Css cdn -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script src="./script.js"></script>
   </body>
 </html>

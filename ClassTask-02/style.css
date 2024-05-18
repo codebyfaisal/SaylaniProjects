@@ -1,0 +1,69 @@
+/* * ------------ Base line ------------ * */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  --green-color-theme: #8dc63f;
+}
+
+/* * ------------ Layout --------------- * */
+body {
+  background-color: #ffffff;
+}
+
+/* * ------------ Reusable --------------- * */
+
+/* * ------------ States --------------- * */
+/* Top-bar */
+.top-bar {
+  background-color: #eeeeee;
+
+  & ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    font-size: 1.2rem;
+    color: #666666;
+    margin: 0;
+  }
+
+  & i {
+    font-weight: bold;
+  }
+
+  img {
+    width: 1.8rem;
+  }
+}
+
+.top-bar select {
+  font-size: 1.2rem;
+  background-color: #ffffff;
+  outline: none;
+  border: none;
+  margin: 0.5rem 1rem;
+  padding: 0.4rem 0.7rem;
+  box-shadow: 0 0 1px 0 #eee;
+}
+
+/* Navbar */
+nav * {
+  font-size: 1.4rem;
+}
+
+nav .dropdown-menu {
+  width: max-content;
+}
+
+/* Header */
+header{
+  
+}
