@@ -37,3 +37,5 @@ if (color === "yellow") {
 if (color === "green") {
   alert("Go!")
 }
+
+// If you use an if statement for this👆(traffic signal checker), it will test all conditions (if statements) to see if they are true or false.
