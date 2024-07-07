@@ -2,6 +2,11 @@
 
 Welcome to the "SaylaniMassITProjects" practice GitHub repository! This repository contains projects related to the web development course that I am currently doing at SaylaniMassIT in 2024. Each directory in the repository represents a specific project, and you can find links to live demos of those projects below.
 
+## Assignments
+
+### Assignment-01
+   - Live Demo: [Assignment-01](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-01)
+
 ## Class Tasks
 
 ### ClassTask-01
