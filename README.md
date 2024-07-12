@@ -2,10 +2,25 @@
 
 Welcome to the "SaylaniMassITProjects" practice GitHub repository! This repository contains projects related to the web development course that I am currently doing at SaylaniMassIT in 2024. Each directory in the repository represents a specific project, and you can find links to live demos of those projects below.
 
-## Assignments
+### Registration-Form-HTML
+1. **Registration-Form-HTML-00**
+   - Description: Basic registration form using HTML.
+   - 🖥️ What's included?
+        - ✅ Stylish CSS for a polished look
+        - ✅ User-friendly interface
+        - ✅ Responsive
+   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects/Registration-Form-HTML-00/)
 
-### Assignment-01
-   - Live Demo: [Assignment-01](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-01)
+### CalculatorDesign-html-Css
+   - Description: A responsive calculator with a sleek design, implemented using HTML and CSS only.
+   - 🖥️ What's included?
+        - ✅ Stylish CSS for a polished look
+        - ✅ User-friendly interface
+        - ✅ Use float
+        - ✅ Responsive
+   - Live Demo: [CalculatorDesign-html-Css](https://codebyfaisal.github.io/SaylaniProjects/CalculatorDesign-html-Css/)
+
+---------------------------------------
 
 ## Class Tasks
 
@@ -22,6 +37,13 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
    - Live Demo: [ClassTask-03](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-03/)
 
 ---------------------------------------------
+
+## Assignments
+
+### Assignment-01
+   - Live Demo: [Assignment-01](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-01)
+
+--------------------------------------------
 
 ## Projects
 
@@ -59,21 +81,3 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
    - Live Demo: [PortfolioWebsite-HTML-CSS-02](https://codebyfaisal.github.io/SaylaniProjects/PortfolioWebsite-HTML-CSS-02/)
 
 ---------------------------------------------
-
-### Registration-Form-HTML
-1. **Registration-Form-HTML-00**
-   - Description: Basic registration form using HTML.
-   - 🖥️ What's included?
-        - ✅ Stylish CSS for a polished look
-        - ✅ User-friendly interface
-        - ✅ Responsive
-   - Live Demo: [Registration-Form-HTML-00](https://codebyfaisal.github.io/SaylaniProjects/Registration-Form-HTML-00/)
-
-### CalculatorDesign-html-Css
-   - Description: A responsive calculator with a sleek design, implemented using HTML and CSS only.
-   - 🖥️ What's included?
-        - ✅ Stylish CSS for a polished look
-        - ✅ User-friendly interface
-        - ✅ Use float
-        - ✅ Responsive
-   - Live Demo: [CalculatorDesign-html-Css](https://codebyfaisal.github.io/SaylaniProjects/CalculatorDesign-html-Css/)
