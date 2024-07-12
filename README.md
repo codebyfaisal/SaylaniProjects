@@ -15,11 +15,11 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
 
 ### ClassTask-02
    - Description:
-   - Live Demo: [ClassTask-01](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-02/)
+   - Live Demo: [ClassTask-02](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-02/)
 
 ### ClassTask-03
    - Description:
-   - Live Demo: [ClassTask-01](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-03/)
+   - Live Demo: [ClassTask-03](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-03/)
 
 ---------------------------------------------
 
