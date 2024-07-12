@@ -10,8 +10,16 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
 ## Class Tasks
 
 ### ClassTask-01
-   - Description: A sleek, modern gym website template featuring a dark background, using only HTML CSS.
+   - Description:
    - Live Demo: [ClassTask-01](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-01/)
+
+### ClassTask-02
+   - Description:
+   - Live Demo: [ClassTask-01](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-02/)
+
+### ClassTask-03
+   - Description:
+   - Live Demo: [ClassTask-01](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-03/)
 
 ---------------------------------------------
 
