@@ -40,8 +40,11 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
 
 ## Assignments
 
-### Assignment-01
-   - Live Demo: [Assignment-01](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-01)
+### Assignment-09
+   - Live Demo: [Assignment-09](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-09)
+
+### Assignment-10
+   - Live Demo: [Assignment-10](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-10)
 
 --------------------------------------------
 
