@@ -37,17 +37,6 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
    - Live Demo: [ClassTask-03](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-03/)
 
 ---------------------------------------------
-
-## Assignments
-
-### Assignment-09
-   - Live Demo: [Assignment-09](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-09)
-
-### Assignment-10
-   - Live Demo: [Assignment-10](https://codebyfaisal.github.io/SaylaniProjects/Javascript-Exercises/js-assignment-10)
-
---------------------------------------------
-
 ## Projects
 
 ### PortfolioWebsite-HTML
