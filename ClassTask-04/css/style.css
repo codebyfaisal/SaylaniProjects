@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* * ------------ Base ---------------- * */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* * ------------ Layout --------------- * */
+body {
+    background-color: rgb(247, 253, 253);
+    position: relative;
+    text-align: center;
+    overflow-x: hidden;
+}
+
+p {
+    font-size: 1rem;
+    text-wrap: wrap;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+input,
+button {
+    outline: none;
+    border: none;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    width: 90vw;
+    height: max-content;
+    margin: 8rem auto;
+}
+
+/* * ------------ Module / Reusable ---- * */
+.btn {
+    padding: 0.8rem 1rem;
+    background-color: lavender;
+}
+
+.btn:hover {
+    padding: 0.8rem 1rem;
+    background-color: rgb(197, 197, 247);
+}
+
+.heading {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    text-wrap: nowrap;
+    color: #333;
+}
+
+/* book cards */
+.books-wrapper {
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.book {
+    width: 20rem;
+    max-width: 20rem;
+    position: relative;
+    box-shadow: 0 0 1rem rgba(87, 87, 87, 0.507);
+}
+
+.book .book-img {
+    height: 100%;
+    min-height: 30rem;
+}
+
+.book img {
+    height: 100%;
+}
+
+.book-detail {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: grid;
+    gap: 1rem;
+    background-color: #000000be;
+    color: white;
+}
+
+.book-detail .author {
+    font-size: 1rem;
+}
+
+.book-detail .buy-now {
+    background-color: orange;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.book-detail .buy-now:hover {
+    background-color: #0097b2;
+}
+
+/* * ------------ States --------------- * */
+/* ---- Navbar ------ */
+.logo {
+    width: 12rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+.navbar {
+    text-wrap: nowrap;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1rem;
+    width: 100%;
+    background-color: #0097b2;
+    padding: 1rem;
+    font-size: 1.2rem;
+    color: white;
+    letter-spacing: 1px;
+}
+
+
+/* ---- Hero ------ */
+#hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 90vh;
+    background: url('../assets/img/hero.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.hero-content {
+    width: 35vw;
+    position: relative;
+    left: 20%;
+    transform: translateY(-10%);
+    font-size: 1.8rem;
+}
+
+.search-group {
+    display: flex;
+    position: relative;
+    margin-top: 2rem;
+    box-shadow: 0 0 1rem rgb(255, 228, 217);
+    backdrop-filter: blur(1rem) saturate(100%);
+}
+
+.search-group .search {
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 100%;
+}
+
+.search-group img {
+    position: absolute;
+    right: 1rem;
+    top: 0;
+    width: 2rem;
+    transform: translateY(38%) scale(1.4);
+    padding: 5px;
+    border-radius: 50%;
+}
+
+/* ---- Intro ------ */
+#intro {
+    padding: 5rem;
+    background-color: aliceblue;
+    display: grid;
+    gap: 1rem;
+}
+
+#intro p {
+    font-size: 1.1rem;
+}
+
+/* ---- Best Seller ------ */
+/* #best-seller-section {} */
+
+/* ---- Books ------ */
+#books-section .book {
+    box-shadow: 0 0 5px 2px #00516167;
+}
+
+#books-section .book-detail {
+    background-color: white;
+    color: #333;
+}
+
+/* ---- Footer ------ */
+footer {
+    width: 100vw;
+    display: grid;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0 10vw;
+    text-wrap: wrap;
+
+}
+
+.contact-us {
+    background: linear-gradient(to left, transparent 10%, aliceblue 30%, aliceblue 70%, transparent 90%);
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.contact-us .socials {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.contact-us .social {
+    width: 3rem;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5rem;
+    text-align: left;
+    text-wrap: nowrap;
+}
+
+.socials img {
+    transition: transform 0.3s ease-in-out;
+}
+
+.socials img:hover {
+    transform: scale(1.1);
+}
+
+.footer-links li {
+    margin-bottom: 1rem;
+
+    & a {
+        color: #333;
+    }
+}
+
+.footer-img {
+    min-width: 26rem;
+    max-width: 30rem;
+}
+
+footer .cpr {
+    margin-top: 2rem;
+    border-top: 1px solid #333;
+
+    & p {
+        padding: 1rem;
+        font-weight: bold;
+        font-size: 1.4rem;
+    }
+}
