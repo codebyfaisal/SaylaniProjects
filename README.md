@@ -37,6 +37,10 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
    - Live Demo: [ClassTask-03](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-03/)
 
 ### Task-05
+   - Description: Bookstore website
+   - Live Demo: [ClassTask-05](https://codebyfaisal.github.io/SaylaniProjects/ClassTask-04/)
+
+### Task-05
    - Description: Ecommerce website
    - Live Demo: [ClassTask-05](https://codebyfaisal.github.io/SaylaniProjects/Task-05/)
 
