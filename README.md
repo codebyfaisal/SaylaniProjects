@@ -38,11 +38,11 @@ Welcome to the "SaylaniMassITProjects" practice GitHub repository! This reposito
 
 ### Task-05
    - Description: Ecommerce website
-   - Live Demo: [ClassTask-03](https://codebyfaisal.github.io/SaylaniProjects/Task-05/)
+   - Live Demo: [ClassTask-05](https://codebyfaisal.github.io/SaylaniProjects/Task-05/)
 
 ### Task-05
    - Description: Coffee Resturant website
-   - Live Demo: [ClassTask-03](https://codebyfaisal.github.io/SaylaniProjects/Task-06/)
+   - Live Demo: [ClassTask-06](https://codebyfaisal.github.io/SaylaniProjects/Task-06/)
 
 
 ---------------------------------------------
