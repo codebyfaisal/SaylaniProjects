@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <title>Café Serenity</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- * ---- Navbar ---- * -->
+  <nav class="container flex">
+    <a href="/" class="logo">Café Serenity</a>
+
+    <input type="checkbox" name="menu" id="menu-check">
+    <label for="menu-check" class="menu-bar"></label>
+    <ul class="flex navbar">
+      <li><a href="/" class="active">Home</a></li>
+      <li><a href="#coffee">Coffee</a></li>
+      <li><a href="#cold-coffee">Cold Coffee</a></li>
+      <li><a href="#beans">Beans</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <!-- * ---- Hero ---- * -->
+    <section id="home" class="hero flex container">
+      <div class="hero-text">
+        <h1>Welcome to <span>Café Serenity</span></h1>
+        <h4>Where Every Sip is a Moment of Calm</h4>
+        <a href="#menu" class="btn">Place Order</a>
+      </div>
+
+      <div class="hero-img">
+        <img src="./assets/img/hero.png" alt="" loading="lazy">
+      </div>
+    </section>
+
+    <!-- * ---- Coffee ---- * -->
+    <section id="coffee">
+      <h1 class="intro-text">Cofeee</h1>
+
+      <div class="coffees container grid-cards">
+        <div class="coffee-card">
+          <img src="./assets/img/americano.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Americano</h1>
+            <h4>100ml Cup</h4>
+          </div>
+        </div>
+
+        <div class="coffee-card">
+          <img src="./assets/img/cappuccino.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Cappuccino</h1>
+            <h4>100ml Cup</h4>
+          </div>
+        </div>
+
+        <div class="coffee-card">
+          <img src="./assets/img/latte.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Latte</h1>
+            <h4>100ml Cup</h4>
+          </div>
+        </div>
+
+        <div class="coffee-card">
+          <img src="./assets/img/espresso.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Espresso</h1>
+            <h4>100ml Cup</h4>
+          </div>
+        </div>
+
+        <div class="coffee-card">
+          <img src="./assets/img/mocha.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Mocha</h1>
+            <h4>100ml Cup</h4>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- * ---- Cold Cofeee ---- * -->
+    <section id="cold-coffee">
+      <h1 class="intro-text">Cold Cofeee</h1>
+
+      <div class="cold-coffees container grid-cards">
+        <div class="cold-coffee-card">
+          <img src="./assets/img/iced-cappuccino.png" alt="Iced Cappuccino" loading="lazy">
+          <h1>Iced Cappuccino</h1>
+        </div>
+
+        <div class="cold-coffee-card">
+          <img src="./assets/img/iced-espresso.png" alt="Iced Espresso" loading="lazy">
+          <h1>Iced Espresso</h1>
+        </div>
+
+        <div class="cold-coffee-card">
+          <img src="./assets/img/iced-latte.png" alt="Iced Latte" loading="lazy">
+          <h1>Iced Latte</h1>
+        </div>
+
+        <div class="cold-coffee-card">
+          <img src="./assets/img/iced-mocha.png" alt="Iced Mocha" loading="lazy">
+          <h1>Iced Mocha</h1>
+        </div>
+      </div>
+    </section>
+
+    <!-- * ---- Beans ---- * -->
+    <section id="beans">
+      <h1 class="intro-text">Beans</h1>
+
+      <div class="beans container grid-cards">
+        <div class="bean-card">
+          <img src="./assets/img/arabica-beans.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Arabica</h1>
+            <h4>100g</h4>
+          </div>
+        </div>
+
+        <div class="bean-card">
+          <img src="./assets/img/robusta-beans.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Robusta</h1>
+            <h4>100g</h4>
+          </div>
+        </div>
+
+        <div class="bean-card">
+          <img src="./assets/img/espresso-beans.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Espresso</h1>
+            <h4>100g</h4>
+          </div>
+        </div>
+
+        <div class="bean-card">
+          <img src="./assets/img/caturra-beans.png" alt="" loading="lazy">
+          <div class="detail">
+            <h1>Caturra</h1>
+            <h4>100g</h4>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- * ---- Contact ---- * -->
+    <section></section>
+  </main>
+
+  <!-- * ---- Footer ---- * -->
+  <footer class="container flex">
+    <div class="footer-about">
+      <a href="/" class="logo">Café Serenity</a>
+      <p class="about">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic impedit recusandae quia quo corporis nostrum
+        deserunt mollitia tenetur quam sint, officia facere at ducimus amet suscipit aliquam, voluptatem dolorum
+        repudiandae ad. Sapiente.
+      </p>
+
+      <ul class="socials flex">
+        <li>
+          <a href="https://www.facebook.com" target="_blank">
+            <img src="./assets/icons/facebook.png" alt="facebook"></a loading="lazy">
+        </li>
+        <li>
+          <a href="https://www.instagram.com" target="_blank">
+            <img src="./assets/icons/instagram.png" alt="instagram"></a loading="lazy">
+        </li>
+        <li>
+          <a href="https://www.tiktok.com" target="_blank">
+            <img src="./assets/icons/tiktok.png" alt="tiktok"></a loading="lazy">
+        </li>
+      </ul>
+    </div>
+
+    <div class="quick-links">
+      <h1>Quick Links</h1>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#coffee">Coffee</a></li>
+        <li><a href="#cold-coffee">Cold Coffee</a></li>
+        <li><a href="#beans">Beans</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-contact">
+      <h1>Contact</h1>
+      <form>
+        <input type="text" placeholder="Full Name">
+        <input type="email" placeholder="Email">
+        <textarea rows="4" placeholder="Message"></textarea>
+      </form>
+    </div>
+
+    <p class="copyright">© Café Serenity 2024. All rights reserved</p>
+  </footer>
+
+</body>
+
+</html>
